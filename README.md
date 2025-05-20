@@ -1,0 +1,3 @@
+# Brigruk Card Centering Analyzer
+
+Analyze the centering of sports cards using the Brigruk tool with 99.99% accuracy through image upload...
